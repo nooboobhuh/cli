@@ -37,7 +37,7 @@
     "semver": "^7.3.7",
     "ssri": "^10.0.6",
     "treeverse": "^3.0.0",
-    "walk-up-path": "^3.0.1"
+    "walk-up-path": "^4.0.0"
   },
   "devDependencies": {
     "@npmcli/eslint-config": "^4.0.0",
