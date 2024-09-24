@@ -49,7 +49,7 @@
     "@npmcli/arborist": "^7.5.3",
     "@npmcli/installed-package-contents": "^2.1.0",
     "binary-extensions": "^3.0.0",
-    "diff": "^5.1.0",
+    "diff": "^6.0.0",
     "minimatch": "^9.0.4",
     "npm-package-arg": "^11.0.2",
     "pacote": "^18.0.6",
